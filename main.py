@@ -9,8 +9,6 @@ print("Game will started in 3 seconds.. ")
 time.sleep(3)
 
 
-
-
 def main():
     global length
     global word
